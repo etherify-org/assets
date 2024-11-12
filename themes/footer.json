@@ -1,9 +1,11 @@
 [
 	{
-		"title": "My chain",
+		"title": "Etherify Chain",
 		"links": [
-			{ "text": "Etherify", "url": "https://etherify.org" },
+			{ "text": "Homepage", "url": "https://etherify.org" },
+			{ "text": "Explorer", "url": "https://scan.etherify.org" },
 			{ "text": "Discord", "url": "https://discord.gg/fnf4Byt4PH" }
 		]
 	}
 ]
+
